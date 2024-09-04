@@ -83,7 +83,7 @@ nav ul li a {
 }
 .weather-description {
   height: 150px;
-  margin-top: 20px;
+  margin-top: -30px;
   display: flex;
   align-items: center;
   color: #7e7e7e;
