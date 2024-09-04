@@ -11,7 +11,7 @@
   --white-color: #fff;
 }
 body {
-  background-color: #9f9bb4;
+  background-color: #1a0b26;
 }
 .pc {
   width: 398px;
@@ -53,7 +53,7 @@ nav ul li a {
   padding: 8px 15px;
 }
 h3 {
-  color: var(--font-color-main);
+  color: #898989;
   text-align: center;
   margin: 30px 0;
 }
@@ -116,7 +116,7 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: var(--font-color-main);
+  color: #7e7e7e;
   text-align: center;
   padding: 50px;
 }
