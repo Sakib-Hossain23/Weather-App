@@ -11,7 +11,7 @@
   --white-color: #fff;
 }
 body {
-  background-color: #9f9bb4;
+  background-color: #1a0b26;
 }
 .pc {
   width: 400px;
@@ -63,11 +63,11 @@ nav ul li a {
   font-weight: 500;
   font-size: 20px;
   padding: 30px 0;
-  color: var(--font-color-main);
+  color: #898989;
 }
 .button{
   font-size: 20px;
-  color: var(--font-color-main);
+  color: #898989;
 }
 /* section-box */
 .section-box{
