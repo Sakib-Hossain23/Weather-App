@@ -11,7 +11,7 @@
   --white-color: #fff;
 }
 body {
-  background-color: #9f9bb4;
+  background-color: #1a0b26;
 }
 
 .pc {
@@ -60,7 +60,7 @@ nav ul li a {
   margin: 20px 0;
 }
 .city-name {
-  color: var(--font-color-main);
+  color: #898989;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -86,7 +86,7 @@ nav ul li a {
   margin-top: 20px;
   display: flex;
   align-items: center;
-  color: var(--font-color-main);
+  color: #7e7e7e;
   /* border: 1px solid #000; */
 }
 .show-metric {
